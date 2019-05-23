@@ -20,7 +20,7 @@ public class Week3StarterCode {
         s1.setID(4);
         
         System.out.println(s1.getFirstName() + " "+s1.getID());
-        System.out.println("See you again! Maybe!");
+        System.out.println("See you again! Maybe not at all!");
     }
     
 }
